@@ -10,9 +10,8 @@
 		?>
 	</head>
 	<body>
-		<? 
-			echo $$meta[0,0];
-			echo $$meta[0,1];
-		?>
+		<div class="container-fluid">
+			<? include('layout/navbar.php'); ?>
+		</div>
 	</body>
 </html>

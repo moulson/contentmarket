@@ -9,3 +9,7 @@
 
 <!-- Load TinyMCE -->
 <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
+
+<!-- Load custom styles -->
+<link rel="stylesheet" href="../resources/css/style.css" type="text/css" media="screen">
+
