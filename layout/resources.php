@@ -13,5 +13,6 @@
 <!-- Load custom styles and scripts -->
 <link rel="stylesheet" href="../resources/css/style.css" type="text/css" media="screen">
 <script src="../resources/js/navbar.js" type="text/javascript" charset="utf-8"></script>
+<script src="../resources/js/meta.js" type="text/javascript" charset="utf-8"></script>
 
 

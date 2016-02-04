@@ -1,19 +1,23 @@
+$(document).ready(function(){
 switch (pageName){
-case 'index':
-	
-	break;
-case 'blog':
-	break;
-case 'services':
-	break;
-case 'about':
-	break;
-default: 
+	case 'index':
+		MetaTitle("Index Page");
+		MetaDescription("This is a metadesc");
+		break;
+	case 'blog':
+		break;
+	case 'services':
+		break;
+	case 'about':
+		break;
+	default: 
 }
 
 function MetaTitle(metaTitle){
-	$("title").val(title);
+	$("head").append("<title>" +metaTitle + "</title>");
 }
-function MetaDescriptiom(metaDescription){
-	$("head").append("<meta name='description; content='" + metaDescription + "'/>")
+function MetaDescription(metaDescription){
+	$("head").append("<meta name='description; content='" + metaDescription + "'/>");
 }
+alert("got here");
+});
