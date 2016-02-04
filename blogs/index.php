@@ -1,0 +1,1 @@
+<script>var pageName = "blog-index"</script>
