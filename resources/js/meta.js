@@ -4,9 +4,11 @@ switch (pageName){
 		MetaTitle("Index Page");
 		MetaDescription("This is a metadesc");
 		break;
-	case 'blog':
+	case 'blog-index':
+		MetaTitle("Index Page");
+		MetaDescription("This is a metadesc");
 		break;
-	case 'services':
+	case 'blog-new':
 		break;
 	case 'about':
 		break;
