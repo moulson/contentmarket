@@ -7,6 +7,9 @@ include '../config/db.php';
 		<title>New Blog</title>
 	</head>
 	<body>
+		<form>
+			<input type="text">
+		</form>
 		<script>var pageName = "blog-new";</script>
 	</body>
 </html>

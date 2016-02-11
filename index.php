@@ -17,6 +17,7 @@
 				<div class="col-xs-12">
 				</div>
 			</div>
+			<? include 'layout/footer.php'; ?>
 		</div>
 		<script>var pageName = "index";</script>
 	</body>

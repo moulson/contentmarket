@@ -1,5 +1,5 @@
 .dark-nav{
-	background-color: #222;
+	background: linear-gradient(#777, #555555);
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
@@ -12,4 +12,7 @@
 }
 .btn-nav{
 	
+}
+.footer-main{
+	background-color: #444;
 }
