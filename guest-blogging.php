@@ -5,7 +5,7 @@ include('db.php');
 <html>
 	<head>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-	<title> The Content Market - Home </title>
+	<title> The Content Market - Blog </title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	

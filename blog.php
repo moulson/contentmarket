@@ -264,7 +264,27 @@ session_start();
 				</div>
 			</div>
 		</div>
-		<div class="col-xs-3 center padding-3">	<!--NEW BLOG --></div>
+		<div class="col-xs-3 center padding-3">	<!--NEW BLOG -->
+			<div class="row">
+				<div class="col-xs-8 col-xs-offset-2">
+					<a href="benefits-of-business-blogging.php">
+						<img src="img/benefits-of-business-blogging/blog.jpg" class="img-responsive"/>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class=" col-xs-12 center">
+					<a href="benefits-of-business-blogging.php">
+						<h4>What are the benefits of business blogging?</h4>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-10 col-xs-offset-1 blog-sample">
+					posting regular content about your industry on your own company website - is frequently cited as one of the most powerful ways to boost online visibility and attract potential customers to your site.
+				</div>
+			</div>
+		</div>
 		<div class="col-xs-3 center padding-3">	<!--NEW BLOG --></div>
 		<div class="col-xs-3 center padding-3">	<!--NEW BLOG --></div>
 	</div>
@@ -472,6 +492,29 @@ session_start();
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 blog-sample">
 					If you have a business blog, it's likely that you have sometimes wondered how you might reach the widest possible audience - and keep them interested in what you have to say.
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row visibe-xs hidden-md hidden-sm hidden-lg visibe-xs">
+		<div class="col-xs-12 center padding-3">	<!--NEW BLOG -->
+			<div class="row">
+				<div class="col-xs-8 col-xs-offset-2">
+					<a href="benefits-of-business-blogging.php">
+						<img src="img/benefits-of-business-blogging/blog.jpg" class="img-responsive"/>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class=" col-xs-12 center">
+					<a href="benefits-of-business-blogging.php">
+						<h4>What are the benefits of business blogging?</h4>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-10 col-xs-offset-1 blog-sample">
+					posting regular content about your industry on your own company website - is frequently cited as one of the most powerful ways to boost online visibility and attract potential customers to your site.
 				</div>
 			</div>
 		</div>
