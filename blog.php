@@ -242,6 +242,32 @@ session_start();
 			</div>
 		</div>
 	</div>
+	<div class="row hidden-xs">
+		<div class="col-xs-3 center padding-3">	<!--NEW BLOG -->
+			<div class="row">
+				<div class="col-xs-8 col-xs-offset-2">
+					<a href="guest-blogging.php">
+						<img src="img/guest-blogging/blog.jpg" class="img-responsive"/>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class=" col-xs-12 center">
+					<a href="guest-blogging.php">
+						<h4>Guest blogging</h4>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-10 col-xs-offset-1 blog-sample">
+					If you have a business blog, it's likely that you have sometimes wondered how you might reach the widest possible audience - and keep them interested in what you have to say.
+				</div>
+			</div>
+		</div>
+		<div class="col-xs-3 center padding-3">	<!--NEW BLOG --></div>
+		<div class="col-xs-3 center padding-3">	<!--NEW BLOG --></div>
+		<div class="col-xs-3 center padding-3">	<!--NEW BLOG --></div>
+	</div>
 	<div class="row visibe-xs hidden-md hidden-sm hidden-lg visibe-xs">
 		<div class="col-xs-12 center padding-3"> <!--NEW BLOG -->
 			<div class="row">
@@ -423,6 +449,29 @@ session_start();
 			<div class="row">
 				<div class="col-xs-10 col-xs-offset-1 blog-sample">
 					Business awards can be a great way of showcasing what your business offers, what it has achieved and where it's heading.
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="row visibe-xs hidden-md hidden-sm hidden-lg visibe-xs">
+		<div class="col-xs-12 center padding-3">	<!--NEW BLOG -->
+			<div class="row">
+				<div class="col-xs-8 col-xs-offset-2">
+					<a href="guest-blogging.php">
+						<img src="img/guest-blogging/blog.jpg" class="img-responsive"/>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class=" col-xs-12 center">
+					<a href="guest-blogging.php">
+						<h4>Guest blogging</h4>
+					</a>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-10 col-xs-offset-1 blog-sample">
+					If you have a business blog, it's likely that you have sometimes wondered how you might reach the widest possible audience - and keep them interested in what you have to say.
 				</div>
 			</div>
 		</div>
