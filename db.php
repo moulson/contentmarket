@@ -3,7 +3,7 @@
     $database   = "db584314344";
     $user_name  = "dbo584314344";
     $password   = "Jasper2013";
-
+    
     $connect = mysqli_connect($host_name, $user_name, $password, $database);
     if (mysqli_connect_errno())
     {

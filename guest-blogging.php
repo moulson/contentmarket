@@ -59,7 +59,7 @@ include('db.php');
         <h1 class="page-header center">Guest Blogging</h1>
             <div class="row center padding-5">
             	<div class="col-xs-6 col-xs-offset-3">
-           	 		<img src="img/business-awards/blog.jpg" class="img-responsive">
+           	 		<img src="img/guest-blogging/blog.jpg" class="img-responsive">
             	</div>
             </div>
             <div class="row justify" style="font-size: 16px">
