@@ -85,30 +85,41 @@ include('db.php');
                 </p>
                 <h2>The benefits</h2>
                 <p class="blog-text">
-                1 - It could raise your profile
-                <br/>
-                Having your company praised by the judges not only gives you a sense of pride in what you've achieved, but also gives everyone on your team recognition for their hard work. Some awards even have an Employee of the Year category for those members of staff who have made a valued contribution to your business. 
-                <br/>
-				And don't forget: If you're shortlisted, you could thank your team members for their hard work by inviting them to share in the celebrations at the awards ceremony.
-				<br/>
-				5 - It gives you a chance to assess your business
-                <br/>
-				Most good business awards will require you to fill out an entry form, and if you're shortlisted you may also have to present your company in more detail before a judging panel.
-                <br/>
-This process will inevitably make you stand back from your everyday duties and appraise your business as a whole. Depending how detailed the form is, it can give you a valuable insight into your business's strengths and weaknesses. It can help you identify areas for improvement, and think about your plans for the future.
-				<br/>
-6 - It compares you to your competition
-				<br/>
-The other companies in the category you've entered are likely to be similar to yours in size and sector. Being shortlisted will allow you to check out your rivals, as well as finding out at the awards ceremony what the judges ultimately thought of you all.
-			<br/>
-7 - It makes your company look good against the competition
-				<br/>
-Winning an award will differentiate you from your competition and highlight you as the best - and that's great news for your current customers. It's also a big attraction for potential clients, investors and high calibre employees.
-				<br/>
-8 - It's fun!
-				<br/>
-Attending the awards ceremony as a finalist can be exciting, fun, daunting and thrilling - and that's before you find out if you've won!
-				<br/>
+							 <h3>1 - It could raise your profile</h3>
+							 <br/>
+							 This is particularly true if you get shortlisted - and even more so if you win. Finalists are often profiled before the awards evening, and the overall winners may even be the subject of further features and news articles. Remember to take full advantage of the PR opportunities and increased brand awareness that a win brings with it, and make sure you display your accolade on your website, in your literature, on your shop window, on social media and on press releases.
+<br/>
+							 <h3>2 - It's free advertising</h3>
+<br/>
+							 If you do get shortlisted and are profiled in more detail, you can talk about a new product or service you've launched, show how you've expanded or grab the opportunity to promote yourself to a new audience.
+<br/>
+							 <h3>3 - It's a good networking opportunity</h3>
+<br/>
+							 Representatives of the shortlisted businesses and the award sponsors will usually attend the awards ceremony, giving you the chance to introduce yourself to some key business contacts.
+<br/>
+							 <h3>4 - It boosts staff morale</h3>
+<br/>
+							 Having your company praised by the judges not only gives you a sense of pride in what you've achieved, but also gives everyone on your team recognition for their hard work. Some awards even have an Employee of the Year category for those members of staff who have made a valued contribution to your business.
+<br/>
+							 And don't forget: If you're shortlisted, you could thank your team members for their hard work by inviting them to share in the celebrations at the awards ceremony.
+<br/>
+							 <h3>5 - It gives you a chance to assess your business</h3>
+<br/>
+							 Most good business awards will require you to fill out an entry form, and if you're shortlisted you may also have to present your company in more detail before a judging panel.
+<br/>
+							 This process will inevitably make you stand back from your everyday duties and appraise your business as a whole. Depending how detailed the form is, it can give you a valuable insight into your business's strengths and weaknesses. It can help you identify areas for improvement, and think about your plans for the future.
+<br/>
+							 <h3>6 - It compares you to your competition</h3>
+<br/>
+							 The other companies in the category you've entered are likely to be similar to yours in size and sector. Being shortlisted will allow you to check out your rivals, as well as finding out at the awards ceremony what the judges ultimately thought of you all.
+<br/>
+							 <h3>7 - It makes your company look good against the competition</h3>
+<br/>
+							 Winning an award will differentiate you from your competition and highlight you as the best - and that's great news for your current customers. It's also a big attraction for potential clients, investors and high calibre employees.
+<br/>
+							 <h3>8 - It's fun!</h3>
+<br/>
+							 Attending the awards ceremony as a finalist can be exciting, fun, daunting and thrilling - and that's before you find out if you've won!
                 </p>
             </div>
         </div>

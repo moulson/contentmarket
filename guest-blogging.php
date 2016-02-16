@@ -72,8 +72,6 @@ include('db.php');
                 <p class="blog-text">
                 The answer might be guest blogging - and there are two ways to use them to achieve your aim.
                 <br/>
-				So the first thing to ask yourself is: "Which award is the right one for my business?"
-                <br/>
                	1. Write a guest blog for someone else: Whatever your business, it's likely there are others near you that do something related. For example, if you are a stove installer, there are probably other businesses in your area offering interior design, or perhaps bloggers who write about interiors. You could offer to write something for them on the latest trends in your field of expertise. Not only could you impress their readers, you could also capture new customers for your business by providing links to your own blog and website.
                 <br/>
                 2. Invite a guest blogger to your website: Again, wherever you see a connection with what someone else does, there's an opportunity to work together. If you can think of something your readers would be interested in that you don't have the expertise to write about yourself, why not invite someone else to do it for you? It's free content - with the added bonus that your guest brings some of their audience to your blog and they may well have a look at some of your previous posts.
