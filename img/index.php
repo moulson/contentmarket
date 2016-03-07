@@ -88,18 +88,15 @@ $_SESSION[started] = true;
 		<div class="row main"style="background-image: url('img/new-home.jpg');background-size:100%; background-repeat: no-repeat;height: auto;width: 100%;padding-top: 50%;">
 			<div class="col-md-6 col-md-offset-3">
         <div class="row" style="padding-top: 50px">
-          
+          <div class="col-xs-6 center">
+            <a class="btn btn-primary" href="web-content.html">Content for agencies</a>
+          </div>
+          <div class="col-xs-6 center">
+            <a class="btn btn-primary" href="web-content.html">Content for businesses</a>
+          </div>
         </div>
 			</div>
 		</div>
-    <div class="row">
-      <div class="col-xs-6 center">
-        <a class="btn btn-primary" href="web-content.html">Content for agencies</a>
-      </div>
-      <div class="col-xs-6 center">
-        <a class="btn btn-primary" href="web-content.html">Content for businesses</a>
-      </div>
-    </div>
     <div class="row" style="background-color: #fefefe; padding: 5% 0%">
         <div class="row">
             <div class="col-xs-10 col-xs-offset-1 center" style="font-size: 20px">
@@ -170,7 +167,7 @@ $_SESSION[started] = true;
     </div>
 
     <div class="row hidden-md hidden-lg" style="background-color: #222222">
-        <h2 class="page-header center white">News</h2>
+        <h2 class="page-header center white">News and Intelligence</h2>
         <div class="col-xs-10 col-xs-offset-1">
             <div class="col-xs-6 white center">
                 <div><a href="why-apostrophes-are-like-shoes.html"><h4>Why apostrophes are like shoes</h4></a></div>
@@ -187,7 +184,7 @@ $_SESSION[started] = true;
         </div>
     </div>
     <div class="row hidden-xs hidden-sm" style="background-color: #222222">
-        <h2 class="page-header center white">News</h2>
+        <h2 class="page-header center white">News and Intelligence</h2>
         <div class="col-xs-10 col-xs-offset-1">
             <div class="col-xs-6 white center">
                 <div><a href="why-apostrophes-are-like-shoes.html"><h4>Why apostrophes are like shoes</h4></a></div>
