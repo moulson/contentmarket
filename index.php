@@ -88,9 +88,7 @@ $_SESSION[started] = true;
           </div>
     <div class="row main"style="background-image: url('img/new-home.jpg');background-size:100%; background-repeat: no-repeat;height: auto;width: 100%;padding-top: 50%;">
     	<div class="col-md-6 col-md-offset-3">
-          <div class="row" style="padding-top: 50px">
-            
-          </div>
+          <div class="row" style="padding-top: 50px"></div>
     	</div>
     </div>
     <div class="row" style="background-color: #fefefe; padding: 5% 0%">
@@ -159,7 +157,7 @@ $_SESSION[started] = true;
                 </div>
             </div>
         </div>
-</div>
+    </div>
     <div class="row hidden-md hidden-lg" style="background-color: #222222">
         <h2 class="page-header center white">News</h2>
         <div class="col-xs-10 col-xs-offset-1">
@@ -194,6 +192,39 @@ $_SESSION[started] = true;
             </div>
             <div class="col-xs-8 col-xs-offset-2 padding-5 center"><a href="blog.php" style="font-size: 16px">More news <span class="glyphicon glyphicon-triangle-right"></span></a></div>
         </div>
+    </div>
+    <div class="row padding-3">
+      <div class="col-xs-12">
+        <div class="row">
+          <div class="col-xs-6">
+            <img src="img/hcm-logo.jpg" class="img-responsive"/>
+          </div>
+          <div class="col-xs-6">
+            <img src="img/rock-up-logo.jpg" class="img-responsive"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6">
+            <img src="img/ogden-logo.jpg" class="img-responsive"/>
+          </div>
+          <div class="col-xs-6">
+            <img src="img/hicks-logo.png" class="img-responsive"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-6">
+            <img src="img/hctc-logo.jpg" class="img-responsive"/>
+          </div>
+          <div class="col-xs-6">
+            <img src="img/twisted-willow-logo.jpg" class="img-responsive"/>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xs-8 col-xs-offset-2">
+            <img src="img/loch-fyne-logo.jpg" class="img-responsive"/>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="row padding-3">
         <div class="col-xs-10 col-xs-offset-1">
