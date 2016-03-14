@@ -103,31 +103,34 @@ $_SESSION[started] = true;
                     <p>From blog writing and LinkedIn posts to research and specialist articles we write content that engages your audience and makes a powerful impact on your brand.</p>
                 </h4>
             </div>
-        <div class="row col-xs-10 col-xs-offset-1 center"><a href="about.php"><h4>Meet the team</h4></a></div>
+        <div class="row col-xs-10 col-xs-offset-1 center" style="margin-bottom: 20px">
+          <a href="about.php">
+            <h2>Meet the team</h2>
+          </a>
         </div>
         <div class="col-md-12 center hidden-xs hidden-sm">
             <div class="col-md-3 iconbox">
-                <a href="web-content.html"><img src="img/web-icon.png" style="width: 40%"></a></br>
+                <a href="web-content.html"><img src="img/web-icon.png" style="width: 100%"></a></br>
                 <div class="row" style="padding-top: 5%; text-align: center">
-                  <a href="web-content.html" style="color: #222222">Web Content</a>
+                  <a href="web-content.html" style="color: #222222; font-size: 24px">Blog Writing</a>
                 </div>
             </div>
             <div class="col-md-3 iconbox">
-                <a href="thought-leadership.html"><img src="img/lectern.png" style="width: 40%"></a></br>
+                <a href="thought-leadership.html"><img src="img/lectern.png" style="width: 100%"></a></br>
                 <div class="row" style="padding-top: 5%; text-align: center">
-                <span class="center" ><a href="thought-leadership.html" style="color: #222222">Thought Leadership</a></span>
+                <span class="center" ><a href="thought-leadership.html" style="color: #222222; font-size: 24px">PR</a></span>
                 </div>
             </div>
             <div class="col-md-3 iconbox">
-                <a href="social-media.html"><img src="img/speech.png" style="width: 40%"></a></br>
+                <a href="social-media.html"><img src="img/speech.png" style="width: 100%"></a></br>
                 <div class="row" style="padding-top: 5%; text-align: center">
-                <span class="center" ><a href="social-media.html" style="color: #222222">Social Media</a></span>
+                <span class="center" ><a href="social-media.html" style="color: #222222; font-size: 24px">Social Media</a></span>
                 </div>
             </div>
             <div class="col-md-3 ">
-                <a href="visual-content.html"><img src="img/camera.png" style="width: 40%"></a></br>
+                <a href="visual-content.html"><img src="img/camera.png" style="width: 100%"></a></br>
                 <div class="row" style="padding-top: 5%; text-align: center">
-                <span class="center" ><a href="visual-content.html" style="color: #222222">Visual Content</a></span>
+                <span class="center" ><a href="visual-content.html" style="color: #222222; font-size: 24px">Video</a></span>
                 </div>
             </div>
         </div>
@@ -157,6 +160,11 @@ $_SESSION[started] = true;
                 </div>
             </div>
         </div>
+    </div>
+    <div class="row padding-3">
+      <div class="col-xs-12">
+        <img src="img/brands.jpg" class='img-responsive' style="width: 100%"/>
+      </div>
     </div>
     <div class="row hidden-md hidden-lg" style="background-color: #222222">
         <h2 class="page-header center white">News</h2>
@@ -193,38 +201,7 @@ $_SESSION[started] = true;
             <div class="col-xs-8 col-xs-offset-2 padding-5 center"><a href="blog.php" style="font-size: 16px">More news <span class="glyphicon glyphicon-triangle-right"></span></a></div>
         </div>
     </div>
-    <div class="row padding-3">
-      <div class="col-xs-12">
-        <div class="row">
-          <div class="col-xs-6">
-            <img src="img/hcm-logo.jpg" class="img-responsive"/>
-          </div>
-          <div class="col-xs-6">
-            <img src="img/rock-up-logo.jpg" class="img-responsive"/>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-6">
-            <img src="img/ogden-logo.jpg" class="img-responsive"/>
-          </div>
-          <div class="col-xs-6">
-            <img src="img/hicks-logo.png" class="img-responsive"/>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-6">
-            <img src="img/hctc-logo.jpg" class="img-responsive"/>
-          </div>
-          <div class="col-xs-6">
-            <img src="img/twisted-willow-logo.jpg" class="img-responsive"/>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-xs-8 col-xs-offset-2">
-            <img src="img/loch-fyne-logo.jpg" class="img-responsive"/>
-          </div>
-        </div>
-      </div>
+
     </div>
     <div class="row padding-3">
         <div class="col-xs-10 col-xs-offset-1">
